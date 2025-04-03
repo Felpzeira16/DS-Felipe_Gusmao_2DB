@@ -1,11 +1,10 @@
 
-package java1.pkg4;
+package atividadejava;
 
-public class JAVA14 {
+public class AtividadeJava4 {
 
     public static void main(String[] args) {
-    
-    int Base = 30;
+       int Base = 30;
     int Altura = 12;
     
     int área = Base * Altura;

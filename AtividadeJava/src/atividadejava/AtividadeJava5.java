@@ -1,10 +1,9 @@
 
-package java1.pkg5;
+package atividadejava;
 
-public class JAVA15 {
+public class AtividadeJava5 {
 
     public static void main(String[] args) {
-
         int num = 5;
         int num2 = 10;
         

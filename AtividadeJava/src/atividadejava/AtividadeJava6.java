@@ -1,9 +1,10 @@
 
-package java1.pkg6;
+package atividadejava;
 
-public class JAVA16 {
+public class AtividadeJava6 {
 
     public static void main(String[] args) {
+       
     int al = 4;
     int gas = 6;
     int km = 400;

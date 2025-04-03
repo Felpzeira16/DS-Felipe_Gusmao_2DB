@@ -1,13 +1,10 @@
 
-package java.pkg1.pkg1;
+package atividadejava;
 
-
-public class Java11 {
-
+public class AtividadeJava {
 
     public static void main(String[] args) {
-      
-            int NumA = 10;
+int NumA = 10;
         int NumB = 2;
         
         System.out.println(NumA);
@@ -22,7 +19,6 @@ public class Java11 {
          System.out.println("A SubtraÃ§Ã£o dos NÃºmeros A e B Ã© "+con2);
          System.out.println("A DivisÃ£o dos NÃºmero A e B Ã© "+con3);
          System.out.println("A MultipliacaÃ§Ã£o dos nÃºmeros A e B Ã© "+con4);
-                
     }
     
 }

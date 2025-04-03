@@ -1,10 +1,10 @@
 
-package java.pkg1.pkg2;
+package atividadejava;
 
-public class Java12 {
-    
+public class AtividadeJava2 {
+
     public static void main(String[] args) {
-    int Km = 235;
+       int Km = 235;
     int Litros = 2;
     
     System.out.println(Km);

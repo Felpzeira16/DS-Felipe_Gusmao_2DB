@@ -1,13 +1,10 @@
 
-package java1.pkg3;
+package atividadejava;
 
-public class JAVA13 {
+public class AtividadeJava3 {
 
     public static void main(String[] args) {
-
-
-         
-        String name = "Ricardo";
+         String name = "Ricardo";
         int Salário = 2350;
         int Vendas = 3723;
         
@@ -19,8 +16,6 @@ public class JAVA13 {
         float cont2 = Vendas + cont1;
         
         System.out.println("O Nome do Vendedor é "+name+", seu sálario fixo é R$"+Salário+" e seu salário final é de R$"+cont2);
-
-        
     }
     
 }
